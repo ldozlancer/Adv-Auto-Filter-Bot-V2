@@ -6,8 +6,8 @@
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/Lancer-GWL/Adv-Auto-Filter-Bot-V2/fork">
+    <img src="https://img.shields.io/github/forks/Lancer-GWL/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
